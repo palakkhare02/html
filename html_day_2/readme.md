@@ -1,4 +1,5 @@
 About Me Page (HTML Assignment)
+📌 Project Description
 
 This project is a simple About Me web page created using basic HTML tags.
 It is part of an assignment to understand Core HTML Foundations.
