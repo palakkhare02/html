@@ -22,6 +22,10 @@ html/
 │   ├── index.html
 │   └── README.md
 │
+|___ html-day-2/
+|    |__index.html
+|    |__readme.md
+|         
 └── README.md
 
 📅 Learning Progress
@@ -44,6 +48,16 @@ Basic form
 Simple page layout
 
 📂 Folder: html-day-1
+✅ Day 2 – HTML assignment 
+
+About me page using html basics
+- html basic tags
+- headings
+- paragraph
+- underline ,bold,italic tag
+- hr ,br tags
+
+📂 Folder: html-day-2
 
 🛠 Tools & Technologies
 
@@ -88,3 +102,4 @@ LinkedIn: (add when ready)
 
 This repository is created for learning and practice purposes.
 Feedback and suggestions are always welcome.
+
