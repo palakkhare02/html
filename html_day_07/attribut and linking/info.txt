@@ -1,0 +1,4 @@
+ id= "something" --- for unique element.
+ class="some-name" ---- for multiple elements.
+ style="propety:value" ---- to add css for particular line or word.
+ title="text" --- show tool tip or description during hover on it. 
