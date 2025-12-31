@@ -11,22 +11,23 @@
 
         <!--type 1 key points : its common input type "Text",it accepts letter number symbol etc -->
         <label for="name">Your Name:</label>
-        <input id="name" name="name" type="text" placeholder="Full Name">
-        <!-- adding placeholder to define format of input  -->
+        <input id="name" name="name" type="text" placeholder="Full Name" required>
+        <!-- 1 placeholder- to define format of input
+             2 required field - define that the mandatory to fill  -->
         <br>
         <!--type 2 -password -->
         <label for="pw">Password:</label>
-        <input type="password" name="password" id="pw" placeholder="password">
+        <input type="password" name="password" id="pw" placeholder="password" required>
         
         <br>
         <!--type 3 - email -->
         <label for="email">Email:</label>
-        <input type="email" name="email" id="email" placeholder="abc@gmail.com">
+        <input type="email" name="email" id="email" placeholder="abc@gmail.com" required>
 
         <br>
         <!-- type4 :Number in this input type u can set minimum and maximum range for input numbers-->
          <label for="number">Numbers:</label>
-         <input type="number" name="number" id="number">
+         <input type="number" name="number" id="number" required>
 
          <br>
          <!-- type5 date picker -->
