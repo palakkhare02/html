@@ -97,22 +97,5 @@ Final-year Computer Science Engineering student
 Aspiring Software / Web Developer
 
 🔗 GitHub: [https://github.com/palakkhare02](https://github.com/palakkhare02)
-🔗 LinkedIn: *(add your LinkedIn link here)*
 
----
 
-⭐ *If you find this project useful, feel free to star the repository!*
-
----
-
-### 🔥 Recruiter Tip
-
-After adding **screenshots + GitHub Pages link**, this README will look **100% portfolio-ready**.
-
-If you want, I can also:
-
-* Create **GitHub Pages steps**
-* Write a **profile README**
-* Convert this repo into **2–3 polished HTML projects**
-
-Just tell me 👍
