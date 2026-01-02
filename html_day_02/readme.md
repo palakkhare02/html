@@ -1,84 +1,32 @@
-About Me Page (HTML Assignment)
-📌 Project Description
+🟢 Day 02 – Headings in HTML 
+What are Headings?
 
-This project is a simple About Me web page created using basic HTML tags.
-It is part of an assignment to understand Core HTML Foundations.
+Headings are used to define titles and subtitles on a webpage.
+They help:
 
-The page introduces basic personal information using headings, paragraphs, and text formatting.
+Structure content clearly
 
-🛠️ Technologies Used
+Improve readability
 
-HTML5
+Improve SEO (Search Engine Optimization)
 
-📚 HTML Concepts Covered
+Heading Tags
 
-This project uses only basic HTML tags, including:
+HTML provides 6 levels of headings:
 
-<!DOCTYPE html> – HTML document declaration
+<h1>Main Heading</h1>
+<h2>Sub Heading</h2>
+<h3>Section Heading</h3>
+<h4>Sub Section</h4>
+<h5>Minor Heading</h5>
+<h6>Least Important Heading</h6>
 
-<html> – Root element
+Important Points
 
-<head> – Metadata section
+<h1> should be used only once per page (main topic)
 
-<title> – Page title
+Do not skip heading levels randomly
 
-<body> – Main content
+Headings are block-level elements
 
-Content Tags:
-
-Headings: <h1> to <h6>
-
-Paragraph: <p>
-
-Bold text: <b>
-
-Italic text: <i>
-
-Underline: <u>
-
-Line break: <br>
-
-Horizontal line: <hr>
-
-Comments: <!-- -->
-
-🎯 Objective
-
-Learn basic HTML structure
-
-Practice headings and paragraph tags
-
-Understand text formatting in HTML
-
-Build a simple personal webpage
-
-📂 Project Structure
-about-me-page/
-│
-├── index.html
-└── README.md
-
-🚀 How to Run
-
-Download or clone the repository
-
-Open index.html in any web browser
-
-View the About Me page
-
-✨ Output
-
-A simple personal About Me webpage displaying:
-
-Greetings
-
-Personal introduction
-
-Interests
-
-Personality traits
-
-🧑‍💻 Author
-
-Palak Khare
-Computer Science Student
+Do not use headings just to make text bold or big
