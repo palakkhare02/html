@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embeeding</title>
+</head>
+<body>
+     <!-- 
+        iframe tag is used to embed external content (YouTube video here)
+    -->
+
+   <iframe width="560" height="315" 
+   <!-- 
+            src contains the YouTube embed link of the video 
+        -->
+        src="https://www.youtube.com/embed/zysUIv0-xak?si=ifPEkm9CJCB5cMx6" 
+
+        <!-- 
+            Title for accessibility and screen readers 
+        -->
+        title="HTML YouTube video player" 
+
+        <!-- 
+            frameborder="0" removes the border around the iframe 
+        -->
+        frameborder="0" 
+
+        <!-- 
+            allow specifies which features the iframe can use 
+        -->
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+
+        <!-- 
+            Improves security by controlling referrer information 
+        -->
+        referrerpolicy="strict-origin-when-cross-origin"
+
+        <!-- 
+            loading="lazy" loads the video only when needed (performance optimization)
+        -->
+        loading="lazy" 
+
+        <!-- 
+            allowfullscreen allows the video to open in full screen mode 
+        -->
+        allowfullscreen>
+   </iframe>
+</body>
+</html>
